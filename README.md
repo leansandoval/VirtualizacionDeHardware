@@ -10,9 +10,9 @@ Repositorio donde se encuentran las APLs de la materia.
 * **Año**: 2024
 * **Grupo**: 2
 
-## Trayecto Infraestructura
+## Trayecto - Infraestructura
 
-* **Año académico**: Tercero - Segundo Cuatrimestre
+* **Año académico**: Tercer Año - Segundo Cuatrimestre
 * **Responsable / Jefe de catedra**: Villamayor, Alexis
 * **Carga horaria semanal**: 4 hs
 * **Carga horaria total**: 64 hs
