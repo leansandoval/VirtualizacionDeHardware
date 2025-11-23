@@ -6,7 +6,8 @@ Repositorio donde se encuentran las APLs de la materia.
 ## Información de la Asignatura
 * **Carrera**: Ingeniería en Informática
 * **Asignatura**: Virtualización de Hardware (3654)
-* **Cuatrimestre**: Primer Cuatrimestre 2024
+* **Cuatrimestre**: Primer Cuatrimestre
+* **Año**: 2024
 * **Grupo**: 2
 
 ## Trayecto Infraestructura
