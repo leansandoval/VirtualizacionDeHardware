@@ -4,19 +4,19 @@ Repositorio donde se encuentran las APLs de la materia.
 [Repositorio de la Catedra](https://github.com/unlam-sisop)
 
 ## Información de la Asignatura
-* Carrera: Ingeniería en Informática
-* Asignatura: Virtualización de Hardware (3654)
-* Cuatrimestre: Primer Cuatrimestre 2024
-* Grupo: 2
+* **Carrera**: Ingeniería en Informática
+* **Asignatura**: Virtualización de Hardware (3654)
+* **Cuatrimestre**: Primer Cuatrimestre 2024
+* **Grupo**: 2
 
 ## Trayecto Infraestructura
 
-* Año académico: Tercero - Segundo Cuatrimestre
-* Responsable / Jefe de catedra: Villamayor, Alexis
-* Carga horaria semanal: 4 hs
-* Carga horaria total: 64 hs
-* Modalidad: Virtual
-* Correlativas anteriores:
+* **Año académico**: Tercero - Segundo Cuatrimestre
+* **Responsable / Jefe de catedra**: Villamayor, Alexis
+* **Carga horaria semanal**: 4 hs
+* **Carga horaria total**: 64 hs
+* **Modalidad**: Virtual
+* **Correlativas anteriores**
   + Redes de Computadoras (3643)
   + Sistemas Operativos (3649)
 
