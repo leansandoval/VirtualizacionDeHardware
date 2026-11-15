@@ -29,7 +29,7 @@
 
 ---
 
-🔗 **[Repositorio Oficial en GitHub](https://github.com/leansandoval/VirtualizacionDeHardware)** | 📚 **[Repositorio de la Cátedra](https://github.com/unlam-sisop)**
+📚 **[Repositorio de la Cátedra](https://github.com/unlam-sisop)**
 
 ---
 
