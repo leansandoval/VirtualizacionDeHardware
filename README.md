@@ -115,6 +115,19 @@ Repositorio donde se encuentran las APLs de la materia.
 * Thin Provisioning
 
 ## Unidad 4 - Desarrollo en Lenguaje Nativo del SO
+
+![System Calls](https://miro.medium.com/v2/resize:fit:640/format:webp/1*Qdn6uayFB-sEIA02IuOdIg.png)
+
+![Semaforos](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*87ImC9VPyubVPpSyOjQl-A.jpeg)
+
+![Procesos vs Hilos](https://instagram.faep28-1.fna.fbcdn.net/v/t39.30808-6/672678937_122274737960189612_5303379421398700236_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ig_cache_key=Mzg3ODAzMDc2NjE2OTIzNzE5Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTQwOC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=rWlqVlgzqdYQ7kNvwE19er_&_nc_oc=Adpc9Pg7veNd-DYZv0gjBNBC0aQAqIDUQez5a5JgBtpC5P855o0gzgaKIPBG88gfBHBg8ZApIbbElydDSnEERfX8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.faep28-1.fna&_nc_gid=mDlHn0y90ofHmF9kK1K-KQ&_nc_ss=7a22e&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQRfSAsw8oc23URqAbEJhnWmuSxj-AGOx_Y2w0oBtDw5Mw&oe=6AFECAE3)
+
+![Hilos](https://instagram.fepa2-1.fna.fbcdn.net/v/t39.30808-6/714949254_122281541066189612_6530581940499800137_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=MzkxNjUzMzk4Mjc3NDY5NjQ2Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTI1NC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=urFe4uZI4usQ7kNvwFQvBXf&_nc_oc=Adplu789zToLxR0dsi6mtDo-VpqoKlVA2yUX1R6NAn-l3Pg2u6c94QGQQMSzrPLi0AV9ie55q7hq5zhGskhKEReZ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fepa2-1.fna&_nc_gid=__ji_GuLqBKu0YFqd5Twiw&_nc_ss=7a22e&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQSKxDm95dvAzqiEjh9QBUMFTL0XIqwFdrrcAvT-fMVeyA&oe=6AFECA22)
+
+![Sockets](https://instagram.fepa2-1.fna.fbcdn.net/v/t39.30808-6/701343737_122278904954189612_6149467831498239482_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ig_cache_key=MzkwMTI1MzI3Njk4NTI5NTY5Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTIwMy5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=HkQNDSdeP0oQ7kNvwEUxlh1&_nc_oc=AdqwX-zrlm1a37eg_I_EcHUlkfXpwSiKGfECfuCGValXlKrSt0QA7gLs4w-ZqftBL06V8qyWr7w_It9Q-_9uKt0o&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fepa2-1.fna&_nc_gid=HCpzwD1IjGPEFKfsdMk7aw&_nc_ss=7a22e&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQQ60HxpxwodmT6G2PPi59aLndGyqtYjsb238AxLeUGztQ&oe=6AFECB78)
+
+![WebSockets](https://instagram.faep28-2.fna.fbcdn.net/v/t39.30808-6/699761492_122278736642189612_8546733047505161309_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ig_cache_key=Mzg5OTA0ODkzMDQ2MTczMTk0NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTIwNC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=_TqWPGbfgq8Q7kNvwFb1nNP&_nc_oc=AdqahAgM-l9lsPkNvGdNnrVTPAz8nkQDJnF17zBwB1_6AV0hLBrbDKrXa5T2dR5q88Gd7PJ4_cv49TovIBRg7ssh&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.faep28-2.fna&_nc_gid=_GZz3P9H3vRus5E-iKK-9g&_nc_ss=7a22e&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQSVSlV33tJCQO6TfWogvpOj9v8VFI519REZF2oItmcjFw&oe=6AFEF465)
+
 * GCC, make, fork, wait, exec.
 * FIFO, MC, Semaforos.
 * Sockets, Threads.
@@ -161,7 +174,12 @@ Repositorio donde se encuentran las APLs de la materia.
     * Kubernetes.
 
 ## Unidad 6 - Cloud
-* Caracteristicas.
+
+![Cloud Computing](https://instagram.faep28-2.fna.fbcdn.net/v/t39.30808-6/687374803_122277415412189612_6596062178522913173_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ig_cache_key=Mzg5MTgzMDg4OTg4NjAzNDU1NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuOTkyLnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=XzY1QuvuRqcQ7kNvwFGrpEZ&_nc_oc=AdrYeUXQlbSbjMl0eib8XVT2LsjE3qaYzhUu8cBnXEoeUWIVWxbhf3x0PN5CwCtgXSUptEXjrDD9Ogi12gPr46UY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.faep28-2.fna&_nc_gid=juAZVMSKxZ1l0EPJ7abCVQ&_nc_ss=7a22e&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQSJrmsRSn1ESmq4eP9KUo5oIlrCi5HAC-igmwcAEPeKAw&oe=6AFEF017)
+
+![Tipos de Nubes](https://scontent.faep28-1.fna.fbcdn.net/v/t39.30808-6/273158770_4927816957263826_2339950353736211513_n.png?stp=dst-jpg_tt6&cstp=mx1080x1350&ctp=s1080x1350&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeFF9Sv6WBRrbsZCJWihXoKhabLrh6fp1NJpsuuHp-nU0n-eUjpQ75eKfaxpgldeKa9ZLlC3x90FGvpBva6X1pXL&_nc_ohc=dntP8nX9lKcQ7kNvwG1Qw3v&_nc_oc=AdrUpNatoLss5FQe8foT7oKRz0CGlfGIpAHKRO-CrPas7Q4rbhq4oAzG5vOpAN9hRFN6Ev3ci_8gauFDpqDqVpl2&_nc_zt=23&_nc_ht=scontent.faep28-1.fna&_nc_gid=ZMyj4cKf3mAhoj_Dj1a8dA&_nc_ss=7b2a8&oh=00_AQQ3wDNaH6J8VSj06rCiuY6LTgl6a2y1FcF6E8z-_1XGhQ&oe=6AFEDE0D)
+
+* Características.
 * Tipos de Servicios
     * IaaS.
     * PaaS.
