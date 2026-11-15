@@ -33,7 +33,7 @@
   <a href="https://github.com/unlam-sisop" target="_blank">🔗 <strong>Ver Repositorio de la Cátedra</strong></a>
 </div>
 
----
+<br>
 
 <a id="informacion-de-la-asignatura"></a>
 ## ℹ️ Información de la Asignatura
