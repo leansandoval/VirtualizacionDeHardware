@@ -6,8 +6,7 @@
   <img src="https://img.shields.io/badge/Universidad-UNLaM-1F4F90?style=for-the-badge&logo=google-scholar&logoColor=white" alt="UNLaM" />
   <img src="https://img.shields.io/badge/Año-2024-2EA043?style=for-the-badge" alt="2024" />
   <img src="https://img.shields.io/badge/Estado-Completado-blue?style=for-the-badge" alt="Completado" />
-  <img src="https://img.shields.io/badge/Lenguaje-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/Lenguaje-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
+  <img src="https://img.shields.io/badge/Lenguaje-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" /><img src="https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
   <img src="https://img.shields.io/badge/Grupo-2-7057D2?style=for-the-badge" alt="Grupo 2" />
 </div>
 
