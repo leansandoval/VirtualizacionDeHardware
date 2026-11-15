@@ -29,7 +29,9 @@
 
 ---
 
-📚 **[Repositorio de la Cátedra](https://github.com/unlam-sisop)**
+<div align="center">
+  <a href="https://github.com/unlam-sisop" target="_blank">🔗 <strong>Ver Repositorio de la Cátedra</strong></a>
+</div>
 
 ---
 
