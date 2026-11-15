@@ -43,7 +43,7 @@
 * **Grupo**: 2
 
 <a id="trayecto"></a>
-## 👨‍💻 Trayecto - Infraestructura
+## 🛤️ Trayecto - Infraestructura
 * **Año académico**: Tercer Año - Segundo Cuatrimestre
 * **Responsable / Jefe de cátedra**: Villamayor, Alexis
 * **Carga horaria semanal**: 4 hs
