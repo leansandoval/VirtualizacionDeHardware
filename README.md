@@ -208,15 +208,15 @@
   <br>
   <sup><em>Diferencias estructurales entre Procesos e Hilos (Threads)</em></sup>
   <br><br>
-  <img src="https://instagram.fepa2-1.fna.fbcdn.net/v/t39.30808-6/714949254_122281541066189612_6530581940499800137_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=MzkxNjUzMzk4Mjc3NDY5NjQ2Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTI1NC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=urFe4uZI4usQ7kNvwFQvBXf&_nc_oc=Adplu789zToLxR0dsi6mtDo-VpqoKlVA2yUX1R6NAn-l3Pg2u6c94QGQQMSzrPLi0AV9ie55q7hq5zhGskhKEReZ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fepa2-1.fna&_nc_gid=__ji_GuLqBKu0YFqd5Twiw&_nc_ss=7a22e&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQSKxDm95dvAzqiEjh9QBUMFTL0XIqwFdrrcAvT-fMVeyA&oe=6AFECA22" alt="Hilos" width="450" />
+  <img width="700" alt="Hilos" src="https://github.com/user-attachments/assets/a2be3cf9-5a5d-4917-a8d6-15d0cc0aebaa" />
   <br>
   <sup><em>Ejecución multihilo en el espacio del sistema operativo</em></sup>
   <br><br>
-  <img src="https://instagram.fepa2-1.fna.fbcdn.net/v/t39.30808-6/701343737_122278904954189612_6149467831498239482_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ig_cache_key=MzkwMTI1MzI3Njk4NTI5NTY5Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTIwMy5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=HkQNDSdeP0oQ7kNvwEUxlh1&_nc_oc=AdqwX-zrlm1a37eg_I_EcHUlkfXpwSiKGfECfuCGValXlKrSt0QA7gLs4w-ZqftBL06V8qyWr7w_It9Q-_9uKt0o&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fepa2-1.fna&_nc_gid=HCpzwD1IjGPEFKfsdMk7aw&_nc_ss=7a22e&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQQ60HxpxwodmT6G2PPi59aLndGyqtYjsb238AxLeUGztQ&oe=6AFECB78" alt="Sockets" width="450" />
+  <img width="700" alt="Sockets" src="https://github.com/user-attachments/assets/a34e99cc-a1b2-4c00-8930-686f4db65a03" />
   <br>
   <sup><em>Comunicación IPC y Sockets de red</em></sup>
   <br><br>
-  <img src="https://instagram.faep28-2.fna.fbcdn.net/v/t39.30808-6/699761492_122278736642189612_8546733047505161309_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ig_cache_key=Mzg5OTA0ODkzMDQ2MTczMTk0NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTIwNC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=_TqWPGbfgq8Q7kNvwFb1nNP&_nc_oc=AdqahAgM-l9lsPkNvGdNnrVTPAz8nkQDJnF17zBwB1_6AV0hLBrbDKrXa5T2dR5q88Gd7PJ4_cv49TovIBRg7ssh&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.faep28-2.fna&_nc_gid=_GZz3P9H3vRus5E-iKK-9g&_nc_ss=7a22e&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQSVSlV33tJCQO6TfWogvpOj9v8VFI519REZF2oItmcjFw&oe=6AFEF465" alt="WebSockets" width="450" />
+  <img width="700" alt="WebSockets" src="https://github.com/user-attachments/assets/1143d267-f713-4a08-b172-3d4fde005259" />
   <br>
   <sup><em>Protocolo de comunicación dúplex mediante WebSockets</em></sup>
 </div>
@@ -232,31 +232,31 @@
 ## Unidad 5 - Contenedores / DevOps
 
 <div align="center">
-  <img src="https://instagram.fepa2-1.fna.fbcdn.net/v/t39.30808-6/674681831_122275573550189612_3367906394662364833_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ig_cache_key=Mzg4MzI4NDkwMjQzMTMwOTgwMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTY1OS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=VX5C0ur_KIsQ7kNvwHBvPbI&_nc_oc=AdqFTBz3c5ijj_X8iLhqU8PbTpZSdXAOvp8_1bYsEl8lOqObEJAlxteFt2Nsgpdea2wGcoMvePfwdPmx-FSdFlBw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fepa2-1.fna&_nc_gid=k-dmk5rAIl6vet3szGBfUg&_nc_ss=7a22e&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQTznR3a3zxh7yZeZH8PUb6kp12t6ZA_qMXO_tgf0_3g8Q&oe=6AFEDB94" alt="DevOps" width="450" />
+  <img width="700" alt="DevOps" src="https://github.com/user-attachments/assets/4f9545b1-5821-4937-8cc2-d4d574c0c121" />
   <br>
   <sup><em>Ciclo de vida e integración de la cultura DevOps</em></sup>
   <br><br>
-  <img src="https://instagram.faep28-2.fna.fbcdn.net/v/t39.30808-6/700679147_122278740278189612_6965920115166342005_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=Mzg9OTMyMDE3OTcwMDM5MTQzMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTIwNC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=Rcv-6AVKjGoQ7kNvwFR8LO4&_nc_oc=AdrZiG7LPfRkaaMsl8HO8AwcxvOrg6y8WmR6_cgl7_B1pj2r7OMdXvKETC5kgKL84CTqYgJq8sIfuqMAHxshJD9_&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.faep28-2.fna&_nc_gid=3uvrgrz2I2gAeVKBGfCkDg&_nc_ss=7a22e&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQTD6pTMWyjoT8TGmAdQOCJDZa6Ynol4FzpvwTzYKPqEMA&oe=6AFEF072" alt="¿Qué es CI / CD? Versión 1" width="450" />
+  <img width="700" alt="¿Qué es CI / CD? Versión 1" src="https://github.com/user-attachments/assets/4a1e2c0e-5537-4ef9-825c-b8851e27bae6" />
   <br>
   <sup><em>Principios de Integración y Despliegue Continuo (CI/CD)</em></sup>
   <br><br>
-  <img src="https://instagram.faep28-1.fna.fbcdn.net/v/t39.30808-6/711720897_122281147868189612_8228253594966621601_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ig_cache_key=MzkxMjk3MDM1NzY3MDAxMDQ6Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTI1NC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=P9G4ovEY5OoQ7kNvwELUtUc&_nc_oc=AdoGPDB9jg4qxovmM_4UzShWq3EByYS932yoBTHbkVpYLRfF5IWYBOFSPv6YH4UxHf2rnwU3_V-1J5nCf9YEHu-K&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.faep28-1.fna&_nc_gid=90vL48DaxK2EZjiZz78_mg&_nc_ss=7a22e&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQT2jj-AsY7FHhF-OubQBoBA_nzETNgZ0FRoyi3eqrNR0w&oe=6AFEEFC2" alt="¿Qué es CI / CD? Versión 2" width="450" />
+  <img width="700" alt="¿Qué es CI / CD? Versión 2" src="https://github.com/user-attachments/assets/c4dbc94e-ebbe-4fb8-aeaf-c51d693f4a8c" />
   <br>
   <sup><em>Flujo de trabajo automatizado en pipelines de CI/CD</em></sup>
   <br><br>
-  <img src="https://instagram.faep28-1.fna.fbcdn.net/v/t39.30808-6/678688976_122275573904189612_147892509996635890_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ig_cache_key=Mzg4MzMxNDgxOTkwNTkyNjc5Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTY1OS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=aW8a20ykU8YQ7kNvwEZoi_s&_nc_oc=Adqb0RAL5VS7HJTEA7hmrmjRnDD4KrzKHYnEkHq1YwBcssqJPB9ZNrxps_QNq6bPg_dgLmnqiO2c4jyA7-R9FHuN&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.faep28-1.fna&_nc_gid=J64TiX2cDZOw8UrZ6L0Xfw&_nc_ss=7a22e&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQR2ccwik-uv9gfTBxNRGDX15zzn25udh3HiV1TfR6lOEQ&oe=6AFEF447" alt="Pipeline CI / CD" width="450" />
+  <img width="700" alt="Pipeline CI / CD" src="https://github.com/user-attachments/assets/904074f0-aa70-4beb-a3b1-9eb5f1f45763" />
   <br>
   <sup><em>Etapas de pruebas, construcción y entrega en CI/CD</em></sup>
   <br><br>
-  <img src="https://instagram.fepa2-1.fna.fbcdn.net/v/t39.30808-6/799949552_1357133363110004_239521008912578596_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ig_cache_key=Mzk4NjIzMzE5Nzk5ODQ1MTExMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTI4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=AvE3oYG-x_MQ7kNvwFP__xQ&_nc_oc=AdoVmJIq5Zofhk2JqIiUtu4YF8lDgXSQ4NR79HHr47QRCtgkt-BwqCh1QR16rRn4ZPfMhdWhwIG4DoMhXLl2TMXH&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fepa2-1.fna&_nc_gid=FstJYwn84EnCIvXh20QaNw&_nc_ss=7a22e&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQThdCeCv79bS483gUHqado22_wfJ_M5QbjTXqRUoNiNkw&oe=6AFEEAEF" alt="Contenedores vs Maquinas Virtuales" width="450" />
+  <img width="700" alt="Contenedores vs Maquinas Virtuales" src="https://github.com/user-attachments/assets/204443b3-a465-4817-9aeb-4e6e46a7450a" />
   <br>
   <sup><em>Comparativa técnica: Contenedores vs Máquinas Virtuales</em></sup>
   <br><br>
-  <img src="https://instagram.fepa2-1.fna.fbcdn.net/v/t39.30808-6/699186847_122278730948189612_125759561596822859_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ig_cache_key=Mzg9ODM1NDE2MDgwNjc2NTczMA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTIwMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=MtkaOMbB-jgQ7kNvwGk1XfG&_nc_oc=Adr-eDsxNEttb7ysLxhjCnHFMQwn4zQ_PDlEooXfPpqMOHMA00WU1j1p_5hbDERDag1otxoQ-apA8yZfOxnDrNd1&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fepa2-1.fna&_nc_gid=PW4qShfqEgIAY73nllUAjw&_nc_ss=7a22e&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQROIrkfOTxAhz56aMK1Pqa19-XuBrSP5tkjwDcy6ziAjw&oe=6AFEC948" alt="Docker" width="450" />
+  <img width="700" alt="Docker" src="https://github.com/user-attachments/assets/8af670d4-d8f6-400b-88c4-353fd866d7b3" />
   <br>
   <sup><em>Motor de contenedorización Docker y Dockerfiles</em></sup>
   <br><br>
-  <img src="https://instagram.faep28-2.fna.fbcdn.net/v/t39.30808-6/765051393_122290306034189612_858445467895987921_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ig_cache_key=Mzk1NzkwNjM1Mjg8NjMxODMzOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTI1NC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=aasfby1xukYQ7kNvwEr7dmE&_nc_oc=AdrNgG5B736WKbybDjkERrEId7e-vdlHimvxmXyFeHKzCivRxIV41LjTJ7tQd6mzFdcIDt26oHLuNOz_6POVqPO9&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.faep28-2.fna&_nc_gid=FBGsKt4LfgVx0zmLasVkeA&_nc_ss=7a22e&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQRk52zRV87QDerbfKoALQegTHuYtC_SzGrDaKP7bOt45A&oe=6AFEFB91" alt="Kubernetes" width="450" />
+  <img width="700" alt="Kubernetes" src="https://github.com/user-attachments/assets/c14cd449-47de-47e2-9a04-aa2133049c42" />
   <br>
   <sup><em>Orquestación de clusters con Kubernetes (k8s)</em></sup>
 </div>
@@ -293,11 +293,11 @@
 ## Unidad 6 - Cloud
 
 <div align="center">
-  <img src="https://instagram.faep28-2.fna.fbcdn.net/v/t39.30808-6/687374803_122277415412189612_6596062178522913173_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ig_cache_key=Mzg9MTgzMDg4OTg4NjAzNDU1NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuOTkyLnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=XzY1QuvuRqcQ7kNvwFGrpEZ&_nc_oc=AdrYeUXQlbSbjMl0eib8XVT2LsjE3qaYzhUu8cBnXEoeUWIVWxbhf3x0PN5CwCtgXSUptEXjrDD9Ogi12gPr46UY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.faep28-2.fna&_nc_gid=juAZVMSKxZ1l0EPJ7abCVQ&_nc_ss=7a22e&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQSJrmsRSn1ESmq4eP9KUo5oIlrCi5HAC-igmwcAEPeKAw&oe=6AFEF017" alt="Cloud Computing" width="450" />
+  <img width="700" alt="Cloud Computing" src="https://github.com/user-attachments/assets/339e81d1-26d6-4207-9453-faebbfa92498" />
   <br>
   <sup><em>Modelos de Computación en la Nube (IaaS, PaaS, SaaS)</em></sup>
   <br><br>
-  <img src="https://scontent.faep28-1.fna.fbcdn.net/v/t39.30808-6/273158770_4927816957263826_2339950353736211513_n.png?stp=dst-jpg_tt6&cstp=mx1080x1350&ctp=s1080x1350&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeFF9Sv6WBRrbsZCJWihXoKhabLrh6fp1NJpsuuHp-nU0n-eUjpQ75eKfaxpgldeKa9ZLlC3x90FGvpBva6X1pXL&_nc_ohc=dntP8nX9lKcQ7kNvwG1Qw3v&_nc_oc=AdrUpNatoLss5FQe8foT7oKRz0CGlfGIpAHKRO-CrPas7Q4rbhq4oAzG5vOpAN9hRFN6Ev3ci_8gauFDpqDqVpl2&_nc_zt=23&_nc_ht=scontent.faep28-1.fna&_nc_gid=ZMyj4cKf3mAhoj_Dj1a8dA&_nc_ss=7b2a8&oh=00_AQQ3wDNaH6J8VSj06rCiuY6LTgl6a2y1FcF6E8z-_1XGhQ&oe=6AFEDE0D" alt="Tipos de Nubes" width="450" />
+  <img width="700" alt="Tipos de Nubes" src="https://github.com/user-attachments/assets/336f0db2-211a-40e2-9145-092ead9da59e" />
   <br>
   <sup><em>Despliegues en Nubes Públicas, Privadas e Híbridas</em></sup>
 </div>
