@@ -80,15 +80,15 @@
 ## Unidad 1 - Scripting de Sistemas Operativos
 
 <div align="center">
-  <img src="https://instagram.fepa1-1.fna.fbcdn.net/v/t39.30808-6/768954379_1326180466205294_2092319402729549980_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ig_cache_key=Mzk1ODgxMjQ0OTA1OTc4NjYwNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTI4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=D2RFnzx1oXQQ7kNvwGPhyP8&_nc_oc=AdqRAB3Qfl68H-_h0QwcfBC5BfviS9BvIkF-fpZ-tBVzq5WoQ2XqRgcSW2jrupuPD9vL2w5CIevR9-uBBfqzo-25&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fepa1-1.fna&_nc_gid=l76fpSX_sKo8DmELiGFEVg&_nc_ss=7a22e&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQTTFy4tDjhegXCqCuz0kQU0t1vkS04FrkMS-Q1bAYRu8Q&oe=6AFEBE7A" alt="Bash Scripting" width="450" />
+  <img width="700" alt="Bash Scripting" src="https://github.com/user-attachments/assets/f3e43f88-b825-4d06-a0e1-f97b4a7788e4" />
   <br>
   <sup><em>Automatización de scripts mediante Bash Shell en Linux</em></sup>
   <br><br>
-  <img src="https://www.linuxteck.com/wp-content/uploads/2026/06/Awk-fundamentals-cheat-sheet-for-beginners-Part-26.png" alt="AWK" width="450" />
+  <img width="700" alt="AWK" src="https://github.com/user-attachments/assets/d79df258-8a1a-42a3-8b7e-219303922dde" />
   <br>
   <sup><em>Procesamiento y filtrado de texto avanzado con AWK</em></sup>
   <br><br>
-  <img src="https://instagram.fepa2-1.fna.fbcdn.net/v/t39.30808-6/752619858_1313100507513290_1732861072108763479_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ig_cache_key=Mzk0NzExNzc5MzQ5MDQ5NDg5OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTIxNS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=UZJ7OWoC_cwQ7kNvwHS7uDm&_nc_oc=AdpEKZeHjZTZsIsaqfk-u9rJbzIrN5LramoanrADei_qs1ibEKMNx6a5uI-9EF4wqQRI_PqDc8nfqnJC57OaLNu1&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fepa2-1.fna&_nc_gid=Svg4g_Jr5vVoWh4k74Rg1Q&_nc_ss=7a22e&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQS5eA7E9NbNqzarFqcJe23QDwWp_l875VvmeqWMVGpyRA&oe=6AFEC140" alt="Comandos Básicos de PowerShell" width="450" />
+  <img width="700" alt="Comandos Básicos de PowerShell" src="https://github.com/user-attachments/assets/f452d24a-3402-42b5-85bd-07c7e97259ea" />
   <br>
   <sup><em>Administración de entornos e infraestructuras con PowerShell</em></sup>
 </div>
@@ -104,19 +104,19 @@
 ## Unidad 2 - Tecnologías de Almacenamiento
 
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D22AQHVIBK1R1WGSA/feedshare-shrink_800/B4DZgJX63aHAAs-/0/1752503933261?e=1796256000&v=beta&t=tJHfhnnk_PEdzqAv3REGfFPCWp6Tz5f92BeD1kjwJXo" alt="DAS vs NAS vs SAN" width="450" />
+  <img width="700" alt="DAS vs NAS vs SAN" src="https://github.com/user-attachments/assets/e838662c-dd71-4798-a2af-a6d1ad51e075" />
   <br>
   <sup><em>Comparativa general: DAS, NAS y SAN</em></sup>
   <br><br>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSAeaXchTaM9XRys0sL8bFp9UB6x0dO3xlTEScgqLeaukOCurUw1fwczk&s=10" alt="DAS vs SAN" width="450" />
+  <img width="700" alt="DAS vs SAN" src="https://github.com/user-attachments/assets/5cf396a0-6e8f-4d71-a7fe-bcee4a86ad81" />
   <br>
   <sup><em>Arquitectura de conexión DAS vs Redes de Almacenamiento SAN</em></sup>
   <br><br>
-  <img src="https://instagram.faep28-1.fna.fbcdn.net/v/t39.30808-6/778972554_1335212075302133_7812469025377877054_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ig_cache_key=Mzk2NzIzODEyNzE0MDIxMDY4OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTI0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=_2wZ8OFz-8IQ7kNvwGJFjN9&_nc_oc=AdrjciSK18O07yoGEZ3vm0pzTvvdWL7oyy-FUuFdzbePYMYXzkLYns4u9C_5S-EbG0a_Q2qrisdo7bYD9aHPXL49&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.faep28-1.fna&_nc_gid=qV5IaemblCE23s62l0xTpw&_nc_ss=7a22e&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQQScRR17y4lbUjcvQ1sJilfZUyFKyLUzeRtEjQiUUMczw&oe=6AFEC258" alt="Tipos de RAID - Parte I" width="450" />
+  <img width="700" alt="Tipos de RAID - Parte I" src="https://github.com/user-attachments/assets/363414a0-df8a-4f0c-8472-d7fcf87f7101" />
   <br>
   <sup><em>Organización de Arreglos de Discos Redundantes (RAID)</em></sup>
   <br><br>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn5_CprAFCbjp2eT4u0b39EiOJLihtkKlSxCtJRj7y1T0unS3oCKp7CuP_&s=10" alt="Tipos de RAID - Parte II" width="450" />
+  <img width="700" alt="Tipos de RAID - Parte II" src="https://github.com/user-attachments/assets/b22be012-1d3e-4335-8465-2acf115e780e" />
   <br>
   <sup><em>Niveles de RAID y técnicas de Paridad / Mirroring</em></sup>
 </div>
@@ -156,15 +156,15 @@
 ## Unidad 3 - Virtualización
 
 <div align="center">
-  <img src="https://instagram.fepa2-1.fna.fbcdn.net/v/t39.30808-6/687698020_122277417290189612_6805950592731750553_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ig_cache_key=Mzg9MjAxMjI1Nzk1MDA0MzE1OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuOTkyLnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=GDym31KzprcQ7kNvwE884mC&_nc_oc=Adqxq3omoSDyX5BgdyY4V50sqkK-x1H55-Vjl1J4G5Ro4oHZQu1kU4iv8RIydkoAqcOSb7D-gaVqO2J6aBmRUcKI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fepa2-1.fna&_nc_gid=f93oFc1Xj7NxSMzU9Jpy9w&_nc_ss=7a22e&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQTftaIio8X-zrFm4_WMplQKzEfVLKibV2fjM6Vxmh247w&oe=6AFED2FE" alt="Servidores" width="450" />
+  <img width="700" alt="Servidores" src="https://github.com/user-attachments/assets/901ee77c-6e8a-46c2-8ac4-b94869a3dfd1" />
   <br>
   <sup><em>Infraestructura física y servidores de procesamiento</em></sup>
   <br><br>
-  <img src="https://instagram.faep28-2.fna.fbcdn.net/v/t39.30808-6/697379114_122278401470189612_4582915656437097906_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ig_cache_key=Mzg9Nzg3MDg3NDE0MTYyNzk2Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTI1NC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=c_nxiMZp1ioQ7kNvwHACeVg&_nc_oc=Ado2M2bA3vOu0qGi5ZAlgv_k7D_qceHNeSufDtU3W1Hk5ohGB87S__X0Q90bXuvCjhLVLUPMTWKHD1nRzdnu5WU9&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.faep28-2.fna&_nc_gid=HbJqPH6eRdP_jyQwE8oP0g&_nc_ss=7a22e&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQQWGV999LB5UQg3d7c2QgvcGo-EnT6ARZv4RMoQsVGdvw&oe=6AFED7CF" alt="Virtualizacion" width="450" />
+  <img width="700" alt="Virtualización" src="https://github.com/user-attachments/assets/7f79fb86-c918-4c73-8d47-dde2cec3bce4" />
   <br>
   <sup><em>Capa de abstracción y virtualización de recursos</em></sup>
   <br><br>
-  <img src="https://www.palentino.es/blog/wp-content/uploads/2026/07/hipervisores.png" alt="Hipervisores" width="450" />
+  <img width="700" alt="Hipervisores" src="https://github.com/user-attachments/assets/839e8e8e-21d6-4e61-9f3f-9b4138d1c23f" />
   <br>
   <sup><em>Clasificación de Hipervisores: Tipo 1 (Bare Metal) y Tipo 2 (Hosted)</em></sup>
 </div>
@@ -196,15 +196,15 @@
 ## Unidad 4 - Desarrollo en Lenguaje Nativo del SO
 
 <div align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*Qdn6uayFB-sEIA02IuOdIg.png" alt="System Calls" width="400" />
+  <img width="700" alt="System Calls" src="https://github.com/user-attachments/assets/d8ae4760-0eab-4a04-a78a-149257b42e7a" />
   <br>
   <sup><em>Llamadas al Sistema (System Calls) y modos Kernel / User</em></sup>
   <br><br>
-  <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*87ImC9VPyubVPpSyOjQl-A.jpeg" alt="Semaforos" width="450" />
+  <img width="700" alt="Semaforos" src="https://github.com/user-attachments/assets/2e0da4eb-5f42-428f-926e-cdf70a605fec" />
   <br>
   <sup><em>Sincronización mediante Semáforos y exclusión mutua</em></sup>
   <br><br>
-  <img src="https://instagram.faep28-1.fna.fbcdn.net/v/t39.30808-6/672678937_122274737960189612_5303379421398700236_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ig_cache_key=Mzg3ODAzMDc2NjE2OTIzNzE5Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTQwOC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=rWlqVlgzqdYQ7kNvwE19er_&_nc_oc=Adpc9Pg7veNd-DYZv0gjBNBC0aQAqIDUQez5a5JgBtpC5P855o0gzgaKIPBG88gfBHBg8ZApIbbElydDSnEERfX8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.faep28-1.fna&_nc_gid=mDlHn0y90ofHmF9kK1K-KQ&_nc_ss=7a22e&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQRfSAsw8oc23URqAbEJhnWmuSxj-AGOx_Y2w0oBtDw5Mw&oe=6AFECAE3" alt="Procesos vs Hilos" width="450" />
+  <img width="700" alt="Procesos vs Hilos" src="https://github.com/user-attachments/assets/e34a2f5d-1314-448e-b11a-45323236aaaf" />
   <br>
   <sup><em>Diferencias estructurales entre Procesos e Hilos (Threads)</em></sup>
   <br><br>
